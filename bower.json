@@ -1,0 +1,22 @@
+{
+  "name": "optimazedHtmlLibs",
+  "description": "OptimizedHTML - Start HTML Template",
+  "version": "0.0.0",
+  "authors": [
+    "Pauluxxx"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6",
+    "font-awesome": "^4.7.0",
+    "normalize.css": "*",
+    "jquery": "2.*"
+  }
+}
